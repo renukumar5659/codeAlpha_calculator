@@ -52,8 +52,7 @@ Open with **VS Code** and run using **Live Server**.
 ![Calculator](calculator.png)
 
 ## 🌐 Live Demo
-
-Coming Soon...
+https://renukumar5659.github.io/codeAlpha_calculator/
 
 ## 👨‍💻 Author
 
